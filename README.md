@@ -16,3 +16,5 @@ this repository contains my assignments
 [exam R september](https://github.com/jellecamps/assignments/blob/master/exam_1_student%20(2).ipynb)
 
 [resit R october](https://github.com/jellecamps/assignments/blob/master/Resit_2_student.ipynb)
+
+[resit Python october](https://github.com/jellecamps/assignments/blob/master/exam_Oct_26_2018.ipynb)
